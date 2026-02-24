@@ -1,4 +1,4 @@
-# Digital-Logic-Design-Lab
+# Digital Logic Design Lab
 
 This repository contains the logic circuits I designed in the Logisim environment as part of the Digital Systems course, along with reports detailing the technical analyses of these experiments.
 
